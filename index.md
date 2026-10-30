@@ -8,7 +8,7 @@ title: Hồ sơ nhập ngành
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
      Sau khi điền, làm phép thử sáu giây với hai bạn cùng lớp.               -->
 
-Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
+Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …về Game Development
 
 - … việc đã làm số 1, kèm một con số → [career.md](career.md)
 - … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
