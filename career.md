@@ -17,12 +17,12 @@ Vì sao: …Ngành Game Development mang lại sự kết hợp giữa tư duy k
 
 Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Không suy đoán.
 
-| Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
+| Lớp | Tin 1 (Gameloft) | Tin 2 (Amanotes) | Tin 3 (VNG Games)| Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức | Kiến thức Game Engine 2D/3D (Unity)… | …Tối ưu hóa hệ thống game (Game systems) | - Lập trình C++ / C#… |  một phần  |
+| Kỹ năng | …- Phân tích và giải quyết vấn đề kỹ thuật (Problem-solving) | Xây dựng giải pháp kỹ thuật cho tính năng game… | - Nâng cao hiệu năng game (Profiling)… | …chưa |
+| Thái độ | …- Đam mê sáng tạo game (Passion at Game Creation) | …- Chủ động (Proactive), cầu thị | …- Cẩn thận, tỉ mỉ trong testing | …rồi |
+| Công cụ |Unity Engine … | Unity Engine… | Unity Engine… | chưa… |
 
 ## Ba tin tuyển dụng
 
