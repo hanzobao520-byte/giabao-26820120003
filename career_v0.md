@@ -17,12 +17,12 @@ Vì sao: Lĩnh vực An toàn thông tin giữ vai trò then chốt trong việc
 
 Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Không suy đoán.
 
-| Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
+| Lớp | Tin 1(Viettel Cyber Security) | Tin 2(VinCSS) | Tin 3(FPT IS) | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức | - Kiến thức về mô hình OSI, TCP/IP, Routing & Switching… | - Quy trình Giám sát An ninh mạng (SOC Process)… | Phương pháp Kiểm thử An ninh mạng (Penetration Testing framework)… | chưa  |
+| Kỹ năng | - Rà quét và phát hiện lỗ hổng ứng dụng/mạng | - Kiến thức về Malware & Phân tích mã độc cơ bản… | - Kiến thức về Network Security (Firewall, IDS/IPS)… | chưa… |
+| Thái độ | Tư duy trung thực, cẩn trọng trong công việc… |- Chịu được áp lực công việc (trực ca SOC nếu có)… | …- Tuân thủ quy định đạo đức nghề nghiệp (Ethical Hacking) | …một phần |
+| Công cụ | - Burp Suite, OWASP ZAP… | - Splunk / ELK Stack (SIEM)… | …Burp Suite Professional, Acunetix | chưa… |
 
 ## Ba tin tuyển dụng
 
