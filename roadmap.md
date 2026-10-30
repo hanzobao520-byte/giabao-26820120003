@@ -107,29 +107,29 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ …, vì …
-- Môn … phải học trước môn … vì …
-- Kỳ … tôi để nhẹ vì …
+- Kỳ nặng nhất là kỳ Kỳ nặng nhất là kỳ 8,vì …có sự dồn dập của hàng loạt môn chuyên sâu AI/Data nặng đô như Mô hình ngôn ngữ lớn, Phân tích ảnh và thị giác máy tính, Lập trình song song, Hệ thống gợi ý và đặc biệt phải gánh thêm Đồ án tốt nghiệp Khoa học máy tính (9 tín chỉ) cùng Thực tập tốt nghiệp.
+- Môn Cơ sở lập trình (CMP1074) phải học trước môn Kỹ thuật lập trình (CMP164) vì sinh viên cần phải nắm vững các tư duy lập trình căn bản, cú pháp, kiểu dữ liệu và vòng lặp ở Học kỳ 1 trước khi chuyển sang các kỹ thuật nâng cao, quản lý bộ nhớ và cấu trúc dữ liệu ở Học kỳ 2.
+- Kỳ 2 tôi để nhẹ hơn một chút (17 tín chỉ chuyên môn) vì đây là giai đoạn chuyển tiếp, giúp sinh viên tập trung củng cố kiến thức nền tảng Toán (Giải tích, Xác suất thống kê) và Kỹ thuật lập trình mà không bị quá tải.
 
 ## Hai chỗ AI nói sai
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Môn Triết học Mác - Lênin (POS104) luôn được xếp ở Học kỳ 1 của năm nhất để sinh viên hoàn thành sớm khối đại cương.
+- Bảng chương trình đào tạo thật ra ghi: Môn Triết học Mác - Lênin (POS104) được xếp tận Học kỳ 7 (Năm tư).…
+- Tôi sửa thành: Chuyển môn Triết học Mác - Lênin về đúng Học kỳ 7 theo đúng tiến độ khung đào tạo của trường.
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: …Đồ án tốt nghiệp Khoa học máy tính được chia làm 2 phần học rải rác từ Học kỳ 6 đến Học kỳ 8.
+- Bảng chương trình đào tạo thật ra ghi: …Đồ án tốt nghiệp Khoa học máy tính (COS4012) nằm trọn vẹn ở Học kỳ 8 với dung lượng 9 tín chỉ.
+- Tôi sửa thành: …Gom toàn bộ 9 tín chỉ của Đồ án tốt nghiệp về tập trung ở Học kỳ 8.
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Cung cấp toàn bộ danh sách mã môn, tên môn và số tín chỉ của 8 học kỳ để nhờ AI tính tổng số tín chỉ và phân loại theo học kỳ.… |
+| **Hoài** | Chất vấn và tự dùng Python cộng lại từng dòng khi thấy AI tính tổng tín chỉ bị lệch giữa việc có tính hay không tính các môn Giáo dục Quốc phòng (NDF). |
+| **Học** | …Nắm được quy tắc tính tín chỉ tích lũy tốt nghiệp của trường (loại trừ các môn điều kiện như Quốc phòng ra khỏi tổng số tín chỉ tích lũy chuyên môn). |
+| **Hành** | Chỉnh sửa chính xác con số 173 tín chỉ, đối chiếu từng mã môn/tên môn và hoàn thiện bài thu hoạch theo đúng thực tế.… |
